@@ -1,5 +1,12 @@
 div{
     background-color: tomato;
+    background-size: cover;
+    background-image: url("../Images/Ascade.jpg");
     padding: 10px;
     margin-bottom: 10px;
+}
+.ascade{
+    background-image: url(../Images/clark-van-der-beken-Tk0B3Dfkf_4-unsplash.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
